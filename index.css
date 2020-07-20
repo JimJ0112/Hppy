@@ -4,8 +4,8 @@ height: 50px;
 align-self: center;}
 
 #gift{
-width: 50%;
-height: 50%;
+width: 150%;
+height: 150%;
 }
 
 table{margin-top: 6%;}
@@ -16,8 +16,8 @@ body{
 	background-attachment: fixed;
 }
 
-img{height: 190px;
-width: 190px;}
+img{height: 100px;
+width: 100px;}
 
 #Talumpati{
 	border: 6px solid purple;
