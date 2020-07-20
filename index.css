@@ -1,0 +1,28 @@
+.viewable{border: 1px solid black;
+width: 200px;
+height: 200px;
+align-self: center;}
+
+#gift{
+width: 100%;
+height: 100%;
+}
+
+table{margin-top: 6%;}
+
+body{
+	background-image: Url("Images/bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+img{height: 190px;
+width: 190px;}
+
+#Talumpati{
+	border: 6px solid purple;
+	width: 80%;
+	height: 500px;
+	border-radius: 30px;
+	background-color: hsla(36, 85%, 58%, 0.56);
+}
